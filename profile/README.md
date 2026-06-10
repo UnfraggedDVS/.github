@@ -1,8 +1,8 @@
-# unFRAGGED DVS
+# unFragged
 
 **Deterministic verification for AI governance and agent boundaries.**
 
-DVS is a patent-pending release boundary for machine-generated outputs, claims, and agent tool actions. It keeps unsupported or unauthorized machine output from entering trusted downstream state until source, authority, policy, review, replay, and receipt gates pass.
+unFragged is the company. The product is DVS — the Deterministic Verification Substrate: a patent-pending release boundary for machine-generated outputs, claims, and agent tool actions. DVS keeps unsupported or unauthorized machine output from entering trusted downstream state until source, authority, policy, review, replay, and receipt gates pass.
 
 **Status:** local-alpha / prepilot. The core repositories are private while the work is patent-pending. Recorded local-alpha evidence — deterministic block/receipt/replay records, an MCP release-gate prepilot, a separate-process severance proof, and a two-host SSH-tunneled connector harness run — is available through NDA-gated technical review.
 
